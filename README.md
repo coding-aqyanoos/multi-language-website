@@ -1,6 +1,6 @@
 # How to build a Multi Language Website ?
 This is how you can build a multilingual website in ASP.NET Core MVC.
-This is project is part of my YouTube Tutorial about Creating A Website with multi language.
+This project is part of my YouTube Tutorial about Creating A Website with multi language.
 
 
 > Link to my YouTube Channel [https://www.youtube.com/@coding-aqyanoos](https://www.youtube.com/@coding-aqyanoos)
